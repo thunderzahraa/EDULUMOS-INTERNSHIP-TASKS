@@ -10,11 +10,19 @@ This repository contains the projects completed as part of my Artificial Intelli
 - Displays the number of detected faces.
 - Built with Python and OpenCV.
 
-### Task 2 – AI Fake News Detection
-*(Coming Soon)*
+## ✅ Task 2 – AI Fake News Detection
 
-### Task 3 – Medical Chatbot
-*(Coming Soon)*
+- NLP-based Fake News Detection using TF-IDF and Logistic Regression
+- Interactive Streamlit web application
+- Confidence score prediction
+- Built with Python, Scikit-learn, Pandas, and Streamlit
+
+## ✅ Task 3 – Medical Chatbot
+
+- AI-powered symptom-based medical chatbot
+- Interactive Streamlit interface
+- Provides preliminary health guidance
+- Built with Python and Streamlit
 
 ## Technologies Used
 
